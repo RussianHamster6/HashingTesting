@@ -13,3 +13,10 @@
 C:\Users\12rhodesd\Source\Repos\HashingTesting\hashingTesting\bin\Debug\hashingTesting.exe.config
 C:\Users\12rhodesd\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.exe
 C:\Users\12rhodesd\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.pdb
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csprojResolveAssemblyReference.cache
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.Form1.resources
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.Properties.Resources.resources
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.GenerateResource.Cache
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.CoreCompileInputs.cache
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.exe
+C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.pdb

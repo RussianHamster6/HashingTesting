@@ -22,14 +22,15 @@ namespace hashingTesting
 
         }
 
-         public string hashSomeShit_Click(object sender, EventArgs e)
+         private void hashSomeShit_Click(object sender, EventArgs e)
         { 
 
             string hashedPassword = BCrypt.Net.BCrypt.HashPassword(inputTxt.ToString()); //Creates the hashed password and stores as the hased password variable
 
             bool validPassword = BCrypt.Net.BCrypt.Verify(inputTxt.ToString(), hashedPassword); //Varifies if the password is valid
 
-            return hashedPassword; 
+            MessageBox.Show(hashedPassword);
+            
         }
     }
 }
