@@ -20,3 +20,16 @@ C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\ha
 C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.CoreCompileInputs.cache
 C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.exe
 C:\Users\Russian Hamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.pdb
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\bin\Debug\hashingTesting.exe.config
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\bin\Debug\hashingTesting.exe
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\bin\Debug\hashingTesting.pdb
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\bin\Debug\BCrypt.Net.dll
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\bin\Debug\BCrypt.Net.pdb
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\bin\Debug\BCrypt.Net.xml
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csprojResolveAssemblyReference.cache
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.Form1.resources
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.Properties.Resources.resources
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.GenerateResource.Cache
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.CoreCompileInputs.cache
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.exe
+C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.pdb
