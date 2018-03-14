@@ -30,6 +30,7 @@
         {
             this.hashSomeShit = new System.Windows.Forms.Button();
             this.inputTxt = new System.Windows.Forms.TextBox();
+            this.outputHashed = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // hashSomeShit
@@ -51,11 +52,21 @@
             this.inputTxt.Text = "What S*** are we Hashing";
             this.inputTxt.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
+            // outputHashed
+            // 
+            this.outputHashed.AutoSize = true;
+            this.outputHashed.Location = new System.Drawing.Point(12, 445);
+            this.outputHashed.Name = "outputHashed";
+            this.outputHashed.Size = new System.Drawing.Size(0, 13);
+            this.outputHashed.TabIndex = 2;
+            this.outputHashed.Click += new System.EventHandler(this.label1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(380, 454);
+            this.ClientSize = new System.Drawing.Size(380, 483);
+            this.Controls.Add(this.outputHashed);
             this.Controls.Add(this.inputTxt);
             this.Controls.Add(this.hashSomeShit);
             this.Name = "Form1";
@@ -70,6 +81,7 @@
 
         private System.Windows.Forms.Button hashSomeShit;
         private System.Windows.Forms.TextBox inputTxt;
+        private System.Windows.Forms.Label outputHashed;
     }
 }
 
