@@ -33,3 +33,4 @@ C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\has
 C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.CoreCompileInputs.cache
 C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.exe
 C:\Users\RussianHamster\Source\Repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.pdb
+C:\Users\RussianHamster\source\repos\HashingTesting\hashingTesting\obj\Debug\hashingTesting.csproj.CopyComplete
